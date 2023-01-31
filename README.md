@@ -1,7 +1,8 @@
-![9308-welcome-screen-animation](https://user-images.githubusercontent.com/84996850/215816169-dc1b49a8-c1f0-418d-bf4f-c4ea4f9b7dbf.gif)
 <h1 align="center">Hi 👋, I'm Rabbi Husen Roki</h1>
 <h3 align="center">I'm a self-taught Software Developer and a Freelancer from Bangladesh.</h3>
-![46207-programmer](https://user-images.githubusercontent.com/84996850/215814595-8737a2b5-c2bd-4b74-9bd7-291e3eddbea9.gif)
+
+![46207-programmer](https://user-images.githubusercontent.com/84996850/215816917-132ab65c-2d38-4f06-98ba-fa58642d5f32.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabbihusenroki&label=Profile%20views&color=0e75b6&style=flat" alt="rabbihusenroki" /> </p>
 
